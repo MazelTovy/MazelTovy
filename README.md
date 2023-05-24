@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MazelTovy&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+![MazelTovy's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MazelTovy&theme=dracula)
+<!--[GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MazelTovy&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)-->
 
 </div>
 
