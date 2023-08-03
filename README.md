@@ -29,17 +29,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
      
 <div align="center">
    
-   [![MazelTovy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MazelTovy&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/MazelTovy/github-readme-activity-graph) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MazelTovy&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/MazelTovy) 
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=MazelTovy&show_icons=true&theme=gotham&count_private=true">
 </div>
 
 <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MazelTovy&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+[![MazelTovy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MazelTovy&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)](https://github.com/MazelTovy/github-readme-activity-graph) 
 
 </div>
 
