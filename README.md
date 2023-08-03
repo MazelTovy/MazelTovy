@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <div id="badges"  align="center">
 
-[![MazelTovy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MazelTovy&theme=rouge)](https://github.com/MazelTovy/github-readme-activity-graph) 
+[![MazelTovy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MazelTovy&theme=rogue)](https://github.com/MazelTovy/github-readme-activity-graph) 
 
 </div>
 
