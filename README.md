@@ -6,12 +6,12 @@
 ### Hi there 👋
 
 I'm MazelTovy 😃<br>
-A programmer who wanna be a dreamer, a philosopher, and a writer🦄️.
+An NYUer, a programmer, an engineer, a philosopher, a dreamer🦄️.
 - 🔭 I’m currently striving for a better life in the world of Machine Learning 🤖.
 - 📕 I’m currently reading SICP and PRML.
 - 🎹 I love Rachmaninoff, Prokofiev and Tchaikovsky.
 - 🤔 I'm writing tech blogs on [![AcWing](https://img.shields.io/badge/Blog-AcWing-brightgreen)](https://www.acwing.com/user/myspace/blog/120359/) and sharing my thinkings on [![WeChat](https://img.shields.io/badge/Article-%E5%BE%90%E5%AD%A6%E5%A7%90%E6%97%A9-5cacee)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyMzI5MjIxNQ==&scene=124#wechat_redirect)
-- 📫 My E-mail: mazeltovy@qq.com 💭 If you have anything to share, mail me 😉.
+- 📫 My E-mail: sx2490@nyu.edu 💭 If you have anything to share, just mail me 😉.
 
 
 <!--
