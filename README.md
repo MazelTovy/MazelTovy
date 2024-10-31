@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </div>
 
-
+<!--
 ### 🎇 Also active on Zhihu and CSDN ⛹️
 <div align="center">
    
@@ -51,3 +51,4 @@ Here are some ideas to get you started:
    <img src="https://stats.justsong.cn/api/csdn?id=MazelTovy&theme=dark">
    </a>
 </div>
+-->
